@@ -8,7 +8,7 @@
     width: 100%;
     height: 100vh;
     font-family: Arial, Helvetica, sans-serif;
-    background: #942b1865;
+    background:  #F3EEE8;
     color: #ffff;
     display: flex;
     align-items: center;
@@ -34,7 +34,7 @@
     position: absolute;
     width: 100%;
     height: 100%;
-    background: linear-gradient(#aa2b14cc, #aa2b14cc), url(assets/images/stylish-black-girl_1157-15553.webp);
+    background: linear-gradient(#661a0c9a, #aa2b14e5), url(assets/images/stylish-black-girl_1157-15553.webp);
     background-position: center;
     background-size: cover;
     padding: 55px;
